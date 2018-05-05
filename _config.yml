@@ -17,7 +17,7 @@ title: Idlelearner
 email: idlelearner@github.com
 description: >- # this means to ignore newlines until "baseurl:"
   All I do is just learn during my free time and this will be my journal of thoughts and learnings.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://idlelearner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dhass21
 github_username:  idlelearner
