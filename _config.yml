@@ -34,12 +34,12 @@ kramdown:
 #
 owner:
   name: Dhass
-  avatar: 
+  avatar:
   job: "Engineering Tech Lead"
   bio: "A backend developer who loves to design awesome things. Working for Whitepages in Seattle"
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: dhass21
   facebook: #username
   google:
     plus: #username
@@ -51,7 +51,7 @@ owner:
   github: idlelearner
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: bhagavathi-dhass-44b5b813
   skype: #username
   xing: #username
   instagram: #username
