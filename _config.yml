@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Dhass
-  avatar:
+  avatar: avatar.jpg
   job: "Engineering Tech Lead"
   bio: "A backend developer who loves to design awesome things. Working for Whitepages in Seattle"
   email:
