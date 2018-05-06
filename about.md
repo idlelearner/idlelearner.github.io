@@ -13,3 +13,5 @@ I work as an engineering team lead at whitepages in Seattle. I am passionate abo
 [Quora](https://www.quora.com/profile/Bhagavathi-Dhass)
  | 
 [Github](https://github.com/idlelearner)
+ | 
+[Resume](/resume.pdf)
