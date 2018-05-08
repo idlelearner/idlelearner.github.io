@@ -2,6 +2,7 @@
 layout: post
 title:  "My TODO list and daily schedule hack"
 categories: [productivity]
+tags: [productivity, hacks]
 date:   2018-05-05 09:44:21 -0700
 ---
 
