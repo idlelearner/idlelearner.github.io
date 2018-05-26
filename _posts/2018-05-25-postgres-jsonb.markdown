@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  "JSONB - NoSQL in postgres"
+categories: [Development]
+tags: [Database, Postgres, SQL]
 date:   2018-05-25 08:44:21 -0700
 ---
 We use postgres and different types of NoSQL systems in our production systems. There is always a question whether to go with either adding those values to the RDBMS, postgres in our case or simply go with NoSQL. NoSQL gives you the flexibility to not normalize the data and going schemaless. But there is a caveat when two different systems are used for persisting values. You need to take care of ACID in your application code. It will get harder as table gets complex.
 
 Some examples of schemaless data you might want to store could be normalized address(address_line_1,address_line_2, city, state, zip code). If you don’t get all the address values and it is simpler to store address object as a column. Other examples are storing receipts, reports from other external APIs which can be persisted before processing, adding metadata/properties to an attribute.
 
-So a better solution would be store these schemaless values as a column with other attributes in your table .That will save a lot of headache querying two different systems. Postgres has JSON support for a while but `postgres 9.4` added indexing which is the most important feature when it comes to performance in DB. JSONB will be ideal when you don't need extensive querying on the data stored inside it. Summarizing the pros and cons below.
+So a better solution would be store these schemaless values as a column with other attributes in your table .That will save a lot of headache querying two different systems. Postgres has JSON support for a while but `Postgres 9.4` added indexing which is the most important feature when it comes to performance in DB. JSONB will be ideal when you don't need extensive querying on the data stored inside it. Summarizing the pros and cons below.
 
 **Pros:**
 - Easier to store all the values in one system, database takes care of ACID property.
