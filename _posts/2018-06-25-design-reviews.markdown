@@ -8,9 +8,9 @@ date:   2018-06-25 08:44:21 -0700
 
 Design reviews are a nice process to get feedback from other engineers in the company when designing a new system/feature. It is a learning opportunity for the designer and a good collaboration method to design better systems using the expertise of senior folks in the company. I would like to explain the process we follow at WP when developing a new feature or system. These are three components to the design review.  
 
-1.Writing a design document.  
-2.Sharing the document and receiving feedback.  
-3.Schedule a meeting and go over the design for any flaws/improvements.  
+1. Writing a design document.   
+2. Sharing the document and receiving feedback.  
+3. Schedule a meeting and go over the design for any flaws/improvements.  
 
 **Writing design document:** 
 The engineer who is writing the document should be thoughtful about explaining the product specification and full feature design details so that other engineers who may not be aware of the complete system would still be able to get a full picture and be able to provide feedback on the design.
