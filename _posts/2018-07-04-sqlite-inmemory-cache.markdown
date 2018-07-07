@@ -31,6 +31,7 @@ def dict_factory(cursor, row):
         d[col[0]] = row[idx]
     return d
 
+db_file = 'database.db'
 
 def create_connection(db_file):
     try:
