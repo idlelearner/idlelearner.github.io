@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Redis - show top 10 stat in 24 hrs"
+title:  "Show top 10 stat in 24 hrs - using Redis"
 categories: [Cache, Redis, Heap, Development, Design]
 tags: [Design, cache, Redis, Development]
 date:   2018-07-07 08:44:21 -0700
