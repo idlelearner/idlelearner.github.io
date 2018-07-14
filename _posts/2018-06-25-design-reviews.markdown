@@ -43,6 +43,6 @@ They should be mindful of the changes they are suggesting with the intention of 
 
 For more details to consider while designing systems, I would recommend reading [AWS well-architected framework](https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf) . This is just an overview of the design review process. This can be changed based on the requirement of the company and engineers available time.
 
-
+A good read on writing a good design document can be found [here](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c)
 
 
