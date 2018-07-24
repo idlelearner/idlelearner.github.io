@@ -63,7 +63,7 @@ $ jenv add /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
 $ jenv add /Library/Java/JavaVirtualMachines/jdk17011.jdk/Contents/Home
 {% endhighlight %}
 
-You can check the folder /System/Library/Java/JavaVirtualMachines/ for the available versions to add to jenv
+You can check the folder `/System/Library/Java/JavaVirtualMachines/` for the available versions to add to jenv
 
 {% highlight shell %}
 $ jenv versions #shows all the jenv added versions
